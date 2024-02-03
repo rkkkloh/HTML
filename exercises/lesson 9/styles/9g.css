@@ -1,0 +1,51 @@
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.user {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-top: 6px;
+    margin-bottom: 2px;
+}
+
+.info {
+    color: rgb(128,128,128);
+    margin-bottom: 10px;
+}
+
+button {
+    color: white;
+    background-color: rgb(74, 126, 239);
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.recommendations {
+    padding: 0px 7px;
+}
+
+.container {
+    width: 200px;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.3);
+    display: inline-block;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+
+body {
+    margin: 0px;
+    padding-bottom: 700px;
+}
