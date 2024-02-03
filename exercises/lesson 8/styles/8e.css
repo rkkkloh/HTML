@@ -1,0 +1,46 @@
+p {
+  font-size: 45px;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 30px;
+
+}
+
+input {
+  display: block;
+  font-size: 18px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(245,245,245);
+  border: none;
+  margin-bottom: 10px;
+  width: 450px;
+}
+
+.destination {
+  margin-bottom: 35px;
+}
+
+.first-button {
+  color: white;
+  background-color: black;
+  font-size: 18px;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: 20px;
+}
+
+.second-button {
+  background-color: rgb(245,245,245);;
+  font-size: 18px;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
