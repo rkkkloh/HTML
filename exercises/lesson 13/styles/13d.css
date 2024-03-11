@@ -1,0 +1,64 @@
+div {
+    font-family: Arial;
+}
+
+.container {
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display: inline-block;
+
+}
+
+.inbox {
+    font-size: 14px;
+    color: rgb(120,120,120);
+    display: inline-block;
+}
+
+.email {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 10px;
+
+}
+
+.nested-flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.sub-title {
+    font-size: 14px;
+    font-weight: bold;
+    padding-bottom: 5px;
+
+}
+
+.time,
+.details {
+    font-size: 14px;
+    color: rgb(120,120,120);
+}
+

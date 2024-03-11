@@ -1,0 +1,20 @@
+body {
+    height: 3000px;
+}
+
+div {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-family: Arial;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+}
+
+p {
+    margin: 0px;
+    padding: 2px 5px;
+    
+}
+
+.flexbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.info {
+    width: 200px;
+}
+
+ .user-name {
+    font-weight: bold;
+ }
+
+ .description,
+ .category {
+    color: rgb(150,150,150);
+
+ }
+
+button {
+    font-size: 16px;
+    background-color: rgb(40, 151, 231);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}

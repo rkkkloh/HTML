@@ -1,0 +1,15 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flexbox div {
+    background-color: lightpink;
+}
+
+body {
+    margin: 0px;
+}
+
+

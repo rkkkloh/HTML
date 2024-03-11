@@ -1,0 +1,67 @@
+div {
+  font-family: Arial;
+}
+
+.container {
+  display:  flex;
+  flex-direction: row;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.content-container {
+  flex: 1;
+}
+
+.header {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.author {
+  font-weight: 400;
+  color: rgb(111,111,111);
+}
+
+.title {
+  margin-bottom: 10px;
+  line-height: 20px;
+
+}
+
+.nested-flexbox {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgb(220,220,220);
+  border-radius: 15px;
+  overflow: hidden;
+  align-items: center;
+  cursor: pointer;
+}
+
+.design {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(220,220,220);
+  margin-right: 10px;
+
+}
+
+.video-website {
+  color: rgb(111,111,111);
+  margin-bottom: 3px;
+  cursor: pointer;
+}
+
+.video-title {
+  line-height: 22px;
+}
