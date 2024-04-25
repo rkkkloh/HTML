@@ -3,7 +3,7 @@
 ## Description
 
 This is a ***DIY YouTube Website***!<br>
-Which also includes my own learning progress with those uploaded lessons and exercises on different topics of HTML and CSS design
+Which also includes my own learning progress with those uploaded lessons and exercises on different topics of *HTML* and *CSS* design
 
 ## Table of Contents
 - [Usage](#usage)
